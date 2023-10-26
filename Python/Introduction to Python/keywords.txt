@@ -1,1 +1,5 @@
 see variable type python
+copy list python
+list slice python
+extend list python
+remove list items python
