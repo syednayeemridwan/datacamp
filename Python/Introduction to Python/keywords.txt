@@ -3,3 +3,7 @@ copy list python
 list slice python
 extend list python
 remove list items python
+help python
+see doc python
+method in python
+python package
