@@ -7,3 +7,4 @@ help python
 see doc python
 method in python
 python package
+numpy array
