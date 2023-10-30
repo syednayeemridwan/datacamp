@@ -4,3 +4,5 @@ delete dictionary entry python
 dictionary to dataframe python
 index dataframe
 dataframe slicing
+numpy array comparison
+numpy and
