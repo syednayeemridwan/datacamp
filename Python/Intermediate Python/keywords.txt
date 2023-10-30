@@ -6,3 +6,7 @@ index dataframe
 dataframe slicing
 numpy array comparison
 numpy and
+for loop dictionary python
+for loop numpy array python
+for loop dataframe python
+python dataframe apply
