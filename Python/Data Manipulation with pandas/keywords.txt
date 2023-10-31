@@ -1,3 +1,8 @@
-explore dataset python
+explore dataset pandas
 sort dataframe pandas
 subset dataframe pandas
+custom function pandas
+cumulative sum pandas
+drop duplicate pandas
+count column value pandas
+group by pandas
