@@ -6,3 +6,12 @@ cumulative sum pandas
 drop duplicate pandas
 count column value pandas
 group by pandas
+remove / reset index pandas
+set index pandas
+sort index pandas
+pandas filter
+pandas search index
+pandas multi level index
+pandas slicing
+pandas date
+pandas pivot table
