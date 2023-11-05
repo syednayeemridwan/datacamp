@@ -15,3 +15,13 @@ pandas multi level index
 pandas slicing
 pandas date
 pandas pivot table
+bar plot python
+histogram python
+overlapping histogram python
+line plot python
+scatter plot python
+missing values pandas
+import pickle pandas
+dictionary to dataframe python
+import csv python
+export csv python
