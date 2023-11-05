@@ -1,0 +1,27 @@
+explore dataset pandas
+sort dataframe pandas
+subset dataframe pandas
+custom function pandas
+cumulative sum pandas
+drop duplicate pandas
+count column value pandas
+group by pandas
+remove / reset index pandas
+set index pandas
+sort index pandas
+pandas filter
+pandas search index
+pandas multi level index
+pandas slicing
+pandas date
+pandas pivot table
+bar plot python
+histogram python
+overlapping histogram python
+line plot python
+scatter plot python
+missing values pandas
+import pickle pandas
+dictionary to dataframe python
+import csv python
+export csv python
