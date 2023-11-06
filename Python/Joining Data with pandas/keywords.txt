@@ -1,2 +1,4 @@
 pandas join 
 pandas groupby
+pandas substring
+pandas rename column
