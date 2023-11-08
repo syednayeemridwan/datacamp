@@ -1,0 +1,9 @@
+pandas join 
+pandas groupby
+pandas substring
+pandas rename column
+pandas concat
+pandas filtering
+pandas query
+pandas unpivoting
+pandas pivoting
