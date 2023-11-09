@@ -1,1 +1,3 @@
 matplotlib line plot
+pandas see index
+plot time series python
