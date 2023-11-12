@@ -1,2 +1,4 @@
 seaborn count plot
-seaborn scatter plot
+seaborn scatter plot 
+seaborn relplot
+seaborn line plot
