@@ -1,0 +1,2 @@
+seaborn count plot
+seaborn scatter plot
