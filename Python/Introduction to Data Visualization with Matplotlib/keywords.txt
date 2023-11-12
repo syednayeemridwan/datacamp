@@ -1,0 +1,10 @@
+matplotlib line plot
+pandas see index
+plot time series python
+errorbar matplotlib
+bar plot matplotlib
+histogram matplotlib
+box plot matplotlib
+scatter plot matplotlib
+change style matplotlib
+save plot matplotlib
