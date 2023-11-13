@@ -2,3 +2,5 @@ seaborn count plot
 seaborn scatter plot 
 seaborn relplot
 seaborn line plot
+seaborn cat plot
+seaborn bar plot
