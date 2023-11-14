@@ -1,0 +1,4 @@
+seaborn histogram
+seaborn dist plot
+seaborn reg plot
+seaborn lmplot
