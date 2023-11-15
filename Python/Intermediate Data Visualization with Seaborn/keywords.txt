@@ -15,3 +15,9 @@ seaborn count plot
 seaborn resid plot
 seaborn reg plot
 seaborn heatmap
+seaborn small multiples
+seaborn faceting
+seaborn pair plot
+seaborn pair grid
+seaborn joint plot
+seaborn joint grid
