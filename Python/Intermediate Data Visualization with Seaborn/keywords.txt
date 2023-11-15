@@ -4,3 +4,14 @@ seaborn reg plot
 seaborn lmplot
 seaborn theme
 seaborn remove plot border (spine)
+seaborn strip plot
+seaborn swarm plot
+seaborn box plot
+seaborn violin plot
+seaborn boxen plot
+seaborn bar plot
+seaborn point plot
+seaborn count plot
+seaborn resid plot
+seaborn reg plot
+seaborn heatmap
