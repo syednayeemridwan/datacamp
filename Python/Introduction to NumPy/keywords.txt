@@ -1,0 +1,11 @@
+numpy 2d array
+numpy matrix
+numpy zeros
+numpy random
+numpy range / arange
+numpy reshape
+numpy flatten
+numpy show dimensions
+stack numpy arrays
+numpy data type
+numpy type conversion
