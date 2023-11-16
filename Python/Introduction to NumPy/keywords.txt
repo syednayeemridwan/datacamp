@@ -9,3 +9,11 @@ numpy show dimensions
 stack numpy arrays
 numpy data type
 numpy type conversion
+numpy array operations
+numpy array indexing
+numpy array slicing
+numpy array sorting
+numpy concatenation
+numpy delete row
+numpy delete column
+numpy filtering
