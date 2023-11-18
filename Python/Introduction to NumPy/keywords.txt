@@ -17,3 +17,5 @@ numpy concatenation
 numpy delete row
 numpy delete column
 numpy filtering
+numpy statistics
+numpy mathematical operations
