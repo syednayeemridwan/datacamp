@@ -19,3 +19,8 @@ numpy delete column
 numpy filtering
 numpy statistics
 numpy mathematical operations
+numpy image
+load npy file
+numpy flip
+numpy transpose
+numpy split
