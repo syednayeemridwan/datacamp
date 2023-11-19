@@ -1,1 +1,4 @@
 python function
+python nested function
+python built in functions
+python scope
