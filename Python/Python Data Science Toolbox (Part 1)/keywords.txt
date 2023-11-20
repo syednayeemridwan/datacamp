@@ -2,3 +2,7 @@ python function
 python nested function
 python built in functions
 python scope
+python lambda
+python map
+python filter
+python exception
