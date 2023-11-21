@@ -2,3 +2,7 @@ python iterator
 python enumerate
 python zip
 python chunk
+python generator comprehension
+python generator
+python list comprehension
+python dictionary comprehension
