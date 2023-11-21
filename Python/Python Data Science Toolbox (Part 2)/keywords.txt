@@ -6,3 +6,5 @@ python generator comprehension
 python generator
 python list comprehension
 python dictionary comprehension
+python dataframe to list
+python append dataframe
