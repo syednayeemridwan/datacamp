@@ -1,2 +1,10 @@
 python import txt file
 python import csv file
+python import pkl file
+python import xlsx file
+python import sas7bdat file
+python import dta file
+python import hdf5 file
+python import mat file
+python linux command
+python feather
