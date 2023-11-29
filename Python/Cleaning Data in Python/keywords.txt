@@ -1,0 +1,9 @@
+pandas dataframe information
+pandas convert type
+python testing
+pandas remove character
+pandas drop values
+pandas set values
+pandas convert date
+pandas duplicate
+data cleaning
