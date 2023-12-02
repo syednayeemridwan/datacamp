@@ -7,3 +7,9 @@ pandas set values
 pandas convert date
 pandas duplicate
 data cleaning
+pandas anti join
+pandas date
+pandas uppercase
+pandas lowercase
+pandas replace character
+pandas category
