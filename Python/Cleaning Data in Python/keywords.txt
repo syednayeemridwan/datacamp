@@ -15,3 +15,5 @@ pandas replace character
 pandas category
 pandas missing data
 missing data
+pandas compare string
+pandas record linkage
