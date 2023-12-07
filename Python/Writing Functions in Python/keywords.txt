@@ -1,2 +1,8 @@
 python function
 python context manager
+python nested context manager
+python nested function
+python scope
+python function docstring
+python closure
+python decorator
