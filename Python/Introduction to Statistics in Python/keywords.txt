@@ -5,3 +5,7 @@ python median
 python mode
 measure of spread
 measure of central tendency
+probability / independent event
+python random values
+python distribution
+probability distribution
