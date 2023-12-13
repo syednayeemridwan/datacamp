@@ -9,3 +9,5 @@ probability / independent event
 python random values
 python distribution
 probability distribution
+python correlation
+correlation
