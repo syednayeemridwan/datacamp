@@ -2,3 +2,4 @@ python sampling
 statistics
 probability
 python statistics
+python random numbers
