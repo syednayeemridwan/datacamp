@@ -3,3 +3,5 @@ statistics
 probability
 python statistics
 python random numbers
+python bootstrapping
+simulate dice roll python
