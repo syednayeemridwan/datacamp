@@ -1,0 +1,5 @@
+python hypothesis testing
+hypothesis testing
+z test
+t test
+anova test
