@@ -1,8 +1,10 @@
 python hypothesis testing
 hypothesis testing
+nonparametric hypothesis
 z test
 t test
 proportion z test
 chi square test
 chi square goodness fit
 anova test
+pandas long to wide
