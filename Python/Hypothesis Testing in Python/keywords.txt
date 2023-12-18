@@ -2,4 +2,7 @@ python hypothesis testing
 hypothesis testing
 z test
 t test
+proportion z test
+chi square test
+chi square goodness fit
 anova test
