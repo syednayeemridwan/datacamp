@@ -1,0 +1,4 @@
+python knn
+knn
+supervised learning
+unsupervised learning
