@@ -2,3 +2,8 @@ python knn
 knn
 supervised learning
 unsupervised learning
+linear regression python
+lasso regression
+ridge regression
+python ridge regression
+python lasso regression
