@@ -7,3 +7,8 @@ lasso regression
 ridge regression
 python ridge regression
 python lasso regression
+linear vs logistic regression
+logistic regression
+logistic regression python
+python suppress warnings
+model performance python
