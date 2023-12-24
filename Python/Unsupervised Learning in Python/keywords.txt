@@ -1,1 +1,4 @@
+unsupervised learning
 kmeans python
+tsne python
+hierarchical clustering python
