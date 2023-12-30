@@ -5,3 +5,4 @@ hierarchical clustering python
 pca python
 tf idf python
 sparse data python
+nmf python
