@@ -1,2 +1,4 @@
 normalize python
 unsupervised learning
+hierarchical clustering python
+time python
