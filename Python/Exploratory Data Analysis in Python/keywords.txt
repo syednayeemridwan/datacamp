@@ -1,7 +1,8 @@
 python groupby
-eda
+exploratory data analysis
 eda python
 pandas date
 python date
 python correlation
 python distribution plot
+missing values python
