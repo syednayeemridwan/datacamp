@@ -2,3 +2,6 @@ knn python
 logistic regression python
 svm python
 overfitting
+optimization python
+log loss python
+logistic regression vs linear regression
