@@ -9,3 +9,4 @@ regularization
 softmax
 softmax python
 cost function
+svm python
