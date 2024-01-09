@@ -5,3 +5,7 @@ overfitting
 optimization python
 log loss python
 logistic regression vs linear regression
+regularization
+softmax
+softmax python
+cost function
