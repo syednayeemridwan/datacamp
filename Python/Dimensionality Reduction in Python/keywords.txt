@@ -1,3 +1,7 @@
 tsne python
 curse of dimensionality
 rfe python
+pca python
+heatmap python
+dimensionality reduction
+dimensionality reduction python
