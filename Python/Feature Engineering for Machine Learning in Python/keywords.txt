@@ -1,0 +1,4 @@
+dataframe column python
+binning python
+one hot encoding python
+?feature engineering
