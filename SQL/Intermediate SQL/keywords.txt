@@ -8,3 +8,4 @@ between sql
 like sql
 in sql
 null sql
+aggregation sql
