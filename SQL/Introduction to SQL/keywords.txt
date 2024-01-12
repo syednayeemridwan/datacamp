@@ -1,2 +1,5 @@
 schema
 database
+select sql
+distinct sql
+view sql
