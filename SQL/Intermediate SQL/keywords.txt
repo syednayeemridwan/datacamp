@@ -1,3 +1,10 @@
 count sql
 distinct sql
 pandas sql
+where sql
+and sql
+or sql
+between sql
+like sql
+in sql
+null sql
