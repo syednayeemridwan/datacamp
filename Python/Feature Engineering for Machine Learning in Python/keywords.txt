@@ -3,3 +3,7 @@ binning python
 one hot encoding python
 missing values python
 ?feature engineering
+normal distribution
+remove outliers python
+standardize data python
+normal distribution
