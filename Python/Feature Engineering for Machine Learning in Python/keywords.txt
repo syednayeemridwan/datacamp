@@ -2,8 +2,12 @@ dataframe column python
 binning python
 one hot encoding python
 missing values python
-?feature engineering
+feature engineering
 normal distribution
 remove outliers python
 standardize data python
 normal distribution
+bag of words python
+tfidf python
+text processing
+
