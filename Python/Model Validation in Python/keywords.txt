@@ -1,0 +1,6 @@
+model validation
+confusion matrix python
+model performance metric
+bias variance tradeoff
+cross validation python
+hyper parameter tuning python
