@@ -1,0 +1,6 @@
+case sql
+pandas sql
+pandas sqlite
+subquery sql
+correlated query sql
+sql window function
