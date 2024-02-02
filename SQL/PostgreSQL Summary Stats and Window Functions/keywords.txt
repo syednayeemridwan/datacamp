@@ -1,2 +1,3 @@
 pandas sql
 sql window function
+row vs range sql
