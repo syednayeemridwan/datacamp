@@ -1,3 +1,6 @@
 pandas sql
 sql window function
 row vs range sql
+pivot sql
+split sql
+coalesce sql
