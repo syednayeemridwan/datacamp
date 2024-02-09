@@ -1,0 +1,3 @@
+python postgresql
+column data type sql
+sql array
