@@ -1,0 +1,8 @@
+python postgresql
+column data type sql
+sql array
+sql date
+sql string operations
+sql stored procedure
+custom function sql
+sql extension
