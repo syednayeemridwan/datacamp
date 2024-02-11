@@ -1,3 +1,8 @@
 autocorrelation
 matplotlib theme
-time series plot
+time series plot python
+time series decomposition python
+heatmap python
+missing value python
+subplot python
+
