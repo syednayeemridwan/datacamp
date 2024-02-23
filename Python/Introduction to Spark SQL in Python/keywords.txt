@@ -1,1 +1,7 @@
+pyspark dataframe
 pyspark regex
+pyspark sql
+pyspark string
+python logging
+pyspark caching
+pyspark sparse data
