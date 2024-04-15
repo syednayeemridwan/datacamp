@@ -1,0 +1,4 @@
+deep learning
+forward propagation python
+backpropagation
+backpropagation python
