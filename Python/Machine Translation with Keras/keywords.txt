@@ -1,0 +1,4 @@
+keras encoder decoder
+keras text
+teacher forcing keras
+decoder of the inference model in keras
