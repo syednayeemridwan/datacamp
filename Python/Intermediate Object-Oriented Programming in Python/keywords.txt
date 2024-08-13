@@ -1,3 +1,4 @@
 python inheritance / oop
 python type hints
-
+python getter setter
+python iterator
