@@ -1,1 +1,5 @@
 python function
+python lambda function
+python map
+python exception handling
+python raise exception
