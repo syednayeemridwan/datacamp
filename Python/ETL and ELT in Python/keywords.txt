@@ -1,9 +1,9 @@
 python json
 python missing values
 pandas apply
-
-
------------------------
-import inspect
-print(inspect.getsource(extract))
+python logging
+python testing
+python postgresql
+python etl
+python snowflake
 
