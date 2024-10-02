@@ -1,2 +1,9 @@
+python json
+python missing values
+pandas apply
+
+
+-----------------------
 import inspect
 print(inspect.getsource(extract))
+
